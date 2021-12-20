@@ -1,27 +1,27 @@
 # SMM2LevelViewer
-Super mario maker 2 Level Viewer 马里奥制造2关卡查看器
+Super Mario Maker 2 Level Viewer (English localization)
 
-感谢TheGreatRambler提供公用API
+Thanks to TheGreatRambler for providing public API
 
-感谢simontime和shibbo的地图解密模块
+Thanks to simontime and shibbo's map decryption module
 https://github.com/simontime/SMM2CourseDecryptor
 
-程序中使用了Newtonsoft.Json模块和Tesseract模块进行附加功能测试
+Newtonsoft.Json module and Tesseract module are used in the program for additional functional testing
 
 https://www.newtonsoft.com/json
 
 https://tesseract-ocr.github.io/
 
 
-使用方法：
+Instructions:
 
-1.在文本框输入图号. Input LEVEL CODE in the textbox.
+1.Enter the level code in the text box.
 
-2.点击[Load Level]按钮. Click [Load Level] Button.
+2. Click the [Load Level] button.
 
-3.等待加载地图. Waiting for loading level to complete.
+3.Wait for the level to download.
 
-4.点击[Map A/B]按键查看地图，点击[Save Image]按钮保存图片. Click [Map A/B] button to view the map,and click [Save Image] button to save the map image. 
+4. Click the [Level A/B] button to view the map, and click the [Save Image] button to save the map's picture.
 
 ![QQ截图20211211112120](https://user-images.githubusercontent.com/20100838/145671934-b4d6f2e5-6e12-49d6-a793-984fbd16ad12.jpg)
 
